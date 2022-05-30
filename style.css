@@ -1,0 +1,15 @@
+body {
+  background-color: darkgray;
+}
+.color1 {
+  width: 80px;
+}
+.block {
+  border: 2px solid black;
+  padding: 2px;
+  height: 50px;
+  width: 50px;
+  float: left;
+  padding: 50px;
+  padding-left: 180px;
+}
